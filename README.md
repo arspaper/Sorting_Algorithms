@@ -2,12 +2,13 @@
 
 **Коллекция из 6 сортировок на Python**
 
- - [Сортировка вставками (Insertion Sort)](#insertion-sort)
- - Сортировка слиянием (Merge Sort)
- - Быстрая сортировка (Quick Sort)
- - Сортировка выбором (Selection Sort)
- - Пузырьковая сортировка (Bubble Sort)
- - Сортировка подсчётом (Counting Sort)
+- [Сортировка вставками (Insertion Sort)](#insertion-sort)
+- [Сортировка слиянием (Merge Sort)](#merge-sort)
+- [Быстрая сортировка (Quick Sort)](#quick-sort)
+- [Сортировка выбором (Selection Sort)](#selection-sort)
+- [Пузырьковая сортировка (Bubble Sort)](#bubble-sort)
+- [Сортировка подсчётом (Counting Sort)](#counting-sort)
+
 
 [30-минутное видео о сортировках](https://youtu.be/AAwYzYkjNTg?si=TDYWvKjHMImBr2_s)
 
