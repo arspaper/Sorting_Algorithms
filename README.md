@@ -9,7 +9,7 @@
  - Пузырьковая сортировка (Bubble Sort)
  - Сортировка подсчётом (Counting Sort)
 
-[!30-минутное видео о сортировках](https://youtu.be/AAwYzYkjNTg?si=TDYWvKjHMImBr2_s)
+[30-минутное видео о сортировках](https://youtu.be/AAwYzYkjNTg?si=TDYWvKjHMImBr2_s)
 
 ## Insertion Sort
 ![](for_a_readme/INS.gif)
