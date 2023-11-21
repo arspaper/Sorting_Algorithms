@@ -2,7 +2,7 @@
 
 **Коллекция из 6 сортировок на Python**
 
- - Сортировка вставками (Insertion Sort)
+ - [Сортировка вставками (Insertion Sort)](#insertion-sort)
  - Сортировка слиянием (Merge Sort)
  - Быстрая сортировка (Quick Sort)
  - Сортировка выбором (Selection Sort)
