@@ -1,4 +1,4 @@
-# SORTING ALGORYTHMS
+# SORTING ALGORYTHMS(RU)
 
 **Коллекция из 6 сортировок на Python**
 
@@ -8,6 +8,8 @@
  - Сортировка выбором (Selection Sort)
  - Пузырьковая сортировка (Bubble Sort)
  - Сортировка подсчётом (Counting Sort)
+
+https://youtu.be/AAwYzYkjNTg?si=HX_GOZ3OM6AyH1VR
 
 ## Insertion Sort
 ![](for_a_readme/INS.gif)
