@@ -18,15 +18,13 @@ O(n). Это достигается, когда массив уже отсорт
 """
 
 
-def sortINS(a):
-    n = len(a)
-    if n <= 1:
-        return a
-    for i in range(1, n):
-        element = a[i]
+def sortINS(arr):
+    for i in range(1, len(arr)):
+        key = arr[i]
         j = i - 1
-        while j >= 0 and element < a[j]:
-            a[j + 1] = a[j]
+        while j >= 0 and key < arr[j]:
+            arr[j + 1] = arr[j]
             j -= 1
-        a[j + 1] = element
-    return a
+        arr[j + 1] = key
+    return arr
+
