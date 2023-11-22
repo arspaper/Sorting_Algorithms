@@ -13,7 +13,7 @@ O(n + k).
 """
 
 
-def counting_sort(arr):
+def sortCNT(arr):
     if not arr:
         return arr
     max_val = arr[0]
