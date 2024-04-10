@@ -29,3 +29,17 @@ def sortCNT(arr):
         sorted_arr.extend([i] * count_arr[i])
 
     return sorted_arr
+
+
+def counting_sort(arr):
+    max_val = max(arr)
+    count_arr = [0] * (max_val+1)
+    for item in arr:
+        count_arr[item] += 1
+    index = 0
+    for i in range(len(count_arr)):
+        while count_arr[i] > 0:
+            arr[index] = i
+            index += 1
+            count_arr[i] -= 1
+    return arr
