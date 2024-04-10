@@ -25,6 +25,7 @@ def sortSLC(arr):
 
 
 def selection_sort(arr):
+    arr = arr.copy()
     n = len(arr)
     for i in range(n):
         min_index = i
