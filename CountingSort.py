@@ -32,6 +32,7 @@ def sortCNT(arr):
 
 
 def counting_sort(arr):
+    arr = arr.copy()
     max_val = max(arr)
     count_arr = [0] * (max_val+1)
     for item in arr:
